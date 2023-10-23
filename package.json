@@ -2,7 +2,7 @@
   "name": "instagram-story-share",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://chungtau.github.io/instagram-story-share",
+  "homepage": "https://chungtau.github.io/instagram-story-share",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -55,5 +55,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@types/facebook-js-sdk": "^3.3.9"
   }
 }
