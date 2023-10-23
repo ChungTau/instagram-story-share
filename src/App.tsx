@@ -1,7 +1,4 @@
-import React from 'react';
-import logo from './logo.svg';
 import './App.css';
-import ShareToInstagram from './ShareToInstagramStory';
 import ShareToInstagramStory from './ShareToInstagramStory';
 
 function App() {
